@@ -130,7 +130,7 @@
       }
     },
     "com.unity.ide.rider": {
-      "version": "3.0.20",
+      "version": "3.0.21",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -211,6 +211,13 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "devlocker.utils.scenereference": {
+      "version": "https://github.com/NibbleByte/UnitySceneReference.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "5b03b96565ed12d119e071e9ba8d0bcf0b02bc25"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
